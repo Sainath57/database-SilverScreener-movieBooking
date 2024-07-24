@@ -1,4 +1,4 @@
-DB Term Project
+<h1>DB Term Project</h1>
 
 -> Repository for CSCI 6370 Term Project
 
